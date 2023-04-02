@@ -33,6 +33,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("com.thoughtworks.xstream:xstream:1.4.16")
+	implementation("org.modelmapper:modelmapper:3.1.1")
 
 	kapt("org.springframework.boot:spring-boot-configuration-processor")
 
